@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-MonDevChild/",
+    "build": "vite build --base=/119_html-css_dartwe1der/",
     "preview": "vite preview"
   },
   "devDependencies": {
